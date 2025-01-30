@@ -1,0 +1,9 @@
+{
+  "build": {
+    "command": "mvn clean package",
+    "outputDir": "target"
+  },
+  "run": {
+    "command": "java -jar target/hng12-0.0.1-SNAPSHOT.jar"
+  }
+}
