@@ -11,8 +11,10 @@
 	<groupId>com.et</groupId>
 	<artifactId>hng12</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
 	<name>hng12</name>
-	<description>api for </description>
+	<description>api for fetching informations</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -40,6 +42,8 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+
 	</dependencies>
 
 	<build>
@@ -48,6 +52,13 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+
+			<plugin>
+				<groupId>com.heroku.sdk</groupId>
+				<artifactId>heroku-maven-plugin</artifactId>
+				<version>3.0.4</version>
+			</plugin>
+
 		</plugins>
 	</build>
 

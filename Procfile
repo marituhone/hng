@@ -1,1 +1,1 @@
-web: java -jar target/your-app-name.jar
+web: java -jar target/hng12-0.0.1-SNAPSHOT.jar
