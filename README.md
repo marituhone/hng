@@ -27,11 +27,11 @@ Using Postman:
 If you're looking to hire skilled backend Java developers, check out the link below:
 
 - [Hire Backend Java Developers](https://hng.tech/hire/java-developers)
-Prerequisites
+## Prerequisites
 - Java 11 or higher
 - Maven or Gradle (depending on your build tool)
 - IDE: IntelliJ IDEA, Eclipse, or any Java IDE of your choice.
-Steps to Run 
+## Steps to Run 
 1 Clone the Repository
   Clone the repository to your local machine using Git.
  -  git clone https://github.com/marituhone/hng.git
