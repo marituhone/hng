@@ -26,6 +26,9 @@ If you're looking to hire developers skilled in specific technologies, check out
 
 - **Java Developers**: [Hire Java Developers](https://hng.tech/hire/java-developers)
 
+## Project Overview
+
+This project is built using Java and showcases my ability to
 
 
 Prerequisites
