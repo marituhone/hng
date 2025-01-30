@@ -22,15 +22,11 @@ Using Postman:
 
 ## Developer Hiring Links
 
-If you're looking to hire developers skilled in specific technologies, check out these links:
+## Looking to Hire Java Developers?
 
-- **Java Developers**: [Hire Java Developers](https://hng.tech/hire/java-developers)
+If you're looking to hire skilled backend Java developers, check out the link below:
 
-## Project Overview
-
-This project is built using Java and showcases my ability to
-
-
+- [Hire Backend Java Developers](https://hng.tech/hire/java-developers)
 Prerequisites
 - Java 11 or higher
 - Maven or Gradle (depending on your build tool)
