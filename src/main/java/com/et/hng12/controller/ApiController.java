@@ -27,7 +27,7 @@ public class ApiController {
 
             ResponseDto responseDto = new ResponseDto();
 
-            responseDto.setCurrentDate(Instant.now().toString());
+            responseDto.setCurrent_datetime(Instant.now().toString());
             responseDto.setEmail(email);
             responseDto.setGithub_url(githuburl);
 

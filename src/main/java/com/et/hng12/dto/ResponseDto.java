@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class ResponseDto {
       String email;
-     String currentDate;
+     String current_datetime;
       String github_url;
 
       public String getEmail() {
@@ -15,12 +15,12 @@ public class ResponseDto {
             this.email = email;
       }
 
-      public String getCurrentDate() {
-            return currentDate;
+      public String getCurrent_datetime() {
+            return current_datetime;
       }
 
-      public void setCurrentDate(String currentDate) {
-            this.currentDate = currentDate;
+      public void setCurrent_datetime(String current_datetime) {
+            this.current_datetime = current_datetime;
       }
 
       public String getGithub_url() {
