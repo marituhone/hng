@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.time.Instant;
 import java.time.LocalDate;
 
 
@@ -19,8 +20,8 @@ public class ApiController {
       public ResponseDto getInfo()
       {
             ResponseDto responseDto = new ResponseDto();
-            LocalDate currentdate = LocalDate.now();
-            responseDto.setCurrentDate(currentdate);
+
+            responseDto.setCurrentDate(Instant.now().toString());
             responseDto.setEmail("marehone12@gmail.com");
             responseDto.setGithub_url("https://github.com/marituhone/hng");
 
