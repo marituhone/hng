@@ -22,7 +22,9 @@ Using Postman:
 
 ## Developer Hiring Links
 
-- https://hng.tech/hire/java-developers
+If you're looking to hire developers skilled in specific technologies, check out these links:
+
+- **Java Developers**: [Hire Java Developers](https://hng.tech/hire/java-developers)
 
 
 
