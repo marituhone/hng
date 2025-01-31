@@ -24,9 +24,9 @@ Using Postman:
 
 ## Looking to Hire Java Developers?
 
-If you're looking to hire skilled backend Java developers, check out the link below:
+If you're looking for experienced Java developers, you can find and hire elite Python developers here: [HNG Tech Java Developers](https://hng.tech/hire/java-developers).
 
-- [Hire Backend Java Developers](https://hng.tech/hire/java-developers)
+
 ## Prerequisites
 - Java 11 or higher
 - Maven or Gradle (depending on your build tool)
