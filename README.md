@@ -21,11 +21,7 @@ Using Postman:
                 http://localhost:8080/api
 
 ## Developer Hiring Links
-
-## Looking to Hire Java Developers?
-
-If you're looking for experienced Java developers, you can find and hire elite Python developers here: [HNG Tech Java Developers](https://hng.tech/hire/java-developers).
-
+Looking to hire Java developers? You can find and hire elite Java developers here: [HNG Tech Java Developers](https://hng.tech/hire/java-developers).
 
 ## Prerequisites
 - Java 11 or higher
