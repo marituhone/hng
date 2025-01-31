@@ -45,7 +45,10 @@ curl -X GET http://localhost:8080/api
 ✔️ [Railway Deployment Documentation](https://docs.railway.com/guides/deploy)
 
 
-📚 Reference
-Looking to hire Java developers? You can find and hire elite Java developers here: [HNG Tech Java Developers](https://hng.tech/hire/java-developers).
+## 📚 Reference
 
+Looking to hire Java developers? You can find and hire elite Java developers here:  
+[HNG Tech Java Developers](https://hng.tech/hire/java-developers)
+
+---
 
